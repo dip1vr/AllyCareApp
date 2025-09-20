@@ -65,9 +65,18 @@ cd AllyCareApp
 
 
 
+
+
+
+
+
 <img width="250" alt="Screenshot 2025-09-20 184547" src="https://github.com/user-attachments/assets/10ce41ea-b416-4f0c-86f9-58ade0eb36fd" />
 <img width="250" alt="Screenshot 2025-09-20 184529" src="https://github.com/user-attachments/assets/039fb25f-bd91-47f9-9ae2-842bedb41689" />
 <img width="250" alt="Screenshot 2025-09-20 184510" src="https://github.com/user-attachments/assets/a859c9c7-1395-4773-b9ad-92ff61bf2187" />
+
+
+
+
 
 
 
@@ -77,9 +86,17 @@ cd AllyCareApp
 
 
 
+
+
+
+
 <img width="250" alt="Screenshot 2025-09-20 184838" src="https://github.com/user-attachments/assets/cc7c51ee-420a-4ab0-be02-5c3ed00d5c95" />
 <img width="250" alt="Screenshot 2025-09-20 184823" src="https://github.com/user-attachments/assets/b499ced5-b0d4-487e-9425-c779ee17fc98" />
 <img width="250" alt="Screenshot 2025-09-20 184808" src="https://github.com/user-attachments/assets/25b268fe-da45-4ad4-8830-6c302bca8fec" />
+
+
+
+
 
 
 
