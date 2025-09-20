@@ -93,4 +93,9 @@ cd AllyCareApp
     <td><img width="250" src="https://github.com/user-attachments/assets/a6023264-72b6-4a20-a1d8-da50eaeddda5" /></td>
     <td><img width="250" src="https://github.com/user-attachments/assets/5f324f7e-3130-4b05-9059-5d163433662a" /></td>
   </tr>
+  <tr>
+    <td><img width="582" height="984" alt="Screenshot 2025-09-20 185139" src="https://github.com/user-attachments/assets/b022c2fd-4ba3-4336-a454-91c894191126" /></td>
+    <td><img width="433" height="924" alt="Screenshot 2025-09-20 185208" src="https://github.com/user-attachments/assets/dfe5a9b7-1ac7-4ae0-ae26-e5562911ab5d" /></td>
+    <td><img width="468" height="923" alt="Screenshot 2025-09-20 185155" src="https://github.com/user-attachments/assets/374052cf-f341-4ae9-8778-1d7135b507c5" /></td>  
+  </tr>
 </table>
