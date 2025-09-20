@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196627981254",
+    "project_id": "soln-81d4a",
+    "storage_bucket": "soln-81d4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196627981254:android:c78f9e6f0430f97a4988c7",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaaNFRBfesqvJLRxwW9Jnt_TdXEj_Fphg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
