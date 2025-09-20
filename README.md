@@ -48,7 +48,7 @@ It uses **GetX** for state management and routing.
 - Deciding between **TabBar vs GetX page navigation** for simplicity  
 
 ---
-
+## Download link
 
 Download APK [here](https://github.com/dip1vr/AllyCareApp/releases/tag/Allycare)
 
