@@ -56,9 +56,35 @@ git clone https://github.com/dip1vr/AllyCareApp.git
 cd AllyCareApp
 
 ## 📌 Screenshots for Different screen sizes
-
-<table> <tr> <td><img width="250" src="https://github.com/user-attachments/assets/b5d0063e-19e9-40c1-beed-9d3d5a0be8b7" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/d6f211c6-eece-462c-b835-8b8f033aa975" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/03859f6b-bbe2-4c15-8213-f4408dbc466b" /></td> </tr> <tr> <td><img width="250" src="https://github.com/user-attachments/assets/10ce41ea-b416-4f0c-86f9-58ade0eb36fd" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/039fb25f-bd91-47f9-9ae2-842bedb41689" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/a859c9c7-1395-4773-b9ad-92ff61bf2187" /></td> </tr> <tr> <td><img width="250" src="https://github.com/user-attachments/assets/bf49e28c-8bf6-4fac-8e0a-9d2f33ca7543" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/5014bc7e-755d-4a13-8117-5a96fc273205" /></td> <img width="524" height="910" alt="Screenshot 2025-09-20 184725" src="https://github.com/user-attachments/assets/5852bfc9-8a61-4c4a-ba9c-fb74bc062d69" />
-<td></td> </tr> <tr> <td><img width="250" src="https://github.com/user-attachments/assets/cc7c51ee-420a-4ab0-be02-5c3ed00d5c95" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/b499ced5-b0d4-487e-9425-c779ee17fc98" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/25b268fe-da45-4ad4-8830-6c302bca8fec" /></td> </tr> <tr> <td><img width="250" src="https://github.com/user-attachments/assets/390cf4d7-8e63-49f4-8324-b960f2893e95" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/87ed4720-77d5-4ca3-a082-ed182ae23966" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/c54e587d-bb10-4f6b-9dd7-1f74b8dc2ed7" /></td> </tr> <tr> <td><img width="250" src="https://github.com/user-attachments/assets/d087d6f4-65d7-4e3d-8770-d0ca163f1dfe" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/a6023264-72b6-4a20-a1d8-da50eaeddda5" /></td> <td><img width="250" src="https://github.com/user-attachments/assets/5f324f7e-3130-4b05-9059-5d163433662a" /></td> </tr> </table> ```
-
-Agar chaho, mai images ke beech thodi spacing aur centering bhi add karke aur professional look bana dunga.
-Chahiye wo version bhi?
+<table>
+  <tr>
+    <td><img width="250" src="https://github.com/user-attachments/assets/b5d0063e-19e9-40c1-beed-9d3d5a0be8b7" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/d6f211c6-eece-462c-b835-8b8f033aa975" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/03859f6b-bbe2-4c15-8213-f4408dbc466b" /></td>
+  </tr>
+  <tr>
+    <td><img width="250" src="https://github.com/user-attachments/assets/10ce41ea-b416-4f0c-86f9-58ade0eb36fd" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/039fb25f-bd91-47f9-9ae2-842bedb41689" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/a859c9c7-1395-4773-b9ad-92ff61bf2187" /></td>
+  </tr>
+  <tr>
+    <td><img width="250" src="https://github.com/user-attachments/assets/bf49e28c-8bf6-4fac-8e0a-9d2f33ca7543" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/5014bc7e-755d-4a13-8117-5a96fc273205" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/1e86bfc6-33d6-4089-8262-5345cf0cbebe" /></td>
+  </tr>
+  <tr>
+    <td><img width="250" src="https://github.com/user-attachments/assets/cc7c51ee-420a-4ab0-be02-5c3ed00d5c95" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/b499ced5-b0d4-487e-9425-c779ee17fc98" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/25b268fe-da45-4ad4-8830-6c302bca8fec" /></td>
+  </tr>
+  <tr>
+    <td><img width="250" src="https://github.com/user-attachments/assets/390cf4d7-8e63-49f4-8324-b960f2893e95" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/87ed4720-77d5-4ca3-a082-ed182ae23966" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/c54e587d-bb10-4f6b-9dd7-1f74b8dc2ed7" /></td>
+  </tr>
+  <tr>
+    <td><img width="250" src="https://github.com/user-attachments/assets/d087d6f4-65d7-4e3d-8770-d0ca163f1dfe" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/a6023264-72b6-4a20-a1d8-da50eaeddda5" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/5f324f7e-3130-4b05-9059-5d163433662a" /></td>
+  </tr>
+</table>
