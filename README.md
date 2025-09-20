@@ -49,12 +49,17 @@ It uses **GetX** for state management and routing.
 
 ---
 
+
+Download APK [here](https://github.com/dip1vr/AllyCareApp/releases/tag/Allycare)
+
+
+
+
 ## 📌 How to Run the App
 1. Clone the repository:
 
 git clone https://github.com/dip1vr/AllyCareApp.git
 cd AllyCareApp
-Download APK [here](https://github.com/dip1vr/AllyCareApp/releases/tag/Allycare)
 
 ## 📌 Screenshots for Different screen sizes
 <table>
