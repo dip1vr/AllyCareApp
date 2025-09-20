@@ -54,6 +54,7 @@ It uses **GetX** for state management and routing.
 
 git clone https://github.com/dip1vr/AllyCareApp.git
 cd AllyCareApp
+Download APK [here](https://github.com/dip1vr/AllyCareApp/releases/tag/Allycare)
 
 ## 📌 Screenshots for Different screen sizes
 <table>
